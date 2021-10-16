@@ -1,2 +1,2 @@
 # dev_fsVUE
-Vue.js development and prototyping
+Vue.js 2.x development and prototyping
