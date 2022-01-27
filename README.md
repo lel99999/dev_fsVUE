@@ -1,5 +1,5 @@
 # dev_fsVUE
-Vue.js 2.x development and prototyping
+Vue.js v2.x/v3.x development and prototyping
 
 #### NPM equivalent mechaniszm like python requirements.txt ($pip freeze > requirements.txt, $pip install -r requirements.txt)
 - similar to pip freeze > requirements.txt (however, does not save version numbers)
