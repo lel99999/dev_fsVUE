@@ -10,3 +10,18 @@ $ls "$(npm root -g)" > npm-requirements.txt
 ```
 $sed 's/#.*//' npm-requirements.txt | xargs npm install -g
 ```
+
+##### Install VUE
+- Make sure node, npm installed
+  ```
+  $node -v
+  $npm -v
+  ```
+- Install vue, vue-cli  # --save (development & production) --save-dev (development only)
+  ```
+  $npm i -g @vue/cli
+  ```
+- Create project with VUE
+  ```
+  $vue create <project_name>
+  ```
