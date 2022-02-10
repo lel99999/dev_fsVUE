@@ -26,3 +26,7 @@ $sed 's/#.*//' npm-requirements.txt | xargs npm install -g
   $vue create <project_name>
   ```
   ![https://github.com/lel99999/dev_fsVUE/blob/main/vue_create_project-01.png](https://github.com/lel99999/dev_fsVUE/blob/main/vue_create_project-01.png) <br/>
+- Start project server
+  ```
+  $npm run serve
+  ```
