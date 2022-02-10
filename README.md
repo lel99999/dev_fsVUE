@@ -30,4 +30,4 @@ $sed 's/#.*//' npm-requirements.txt | xargs npm install -g
   ```
   $npm run serve
   ```
-  ![https://github.com/lel99999/dev_fsVUE/blob/main/npm_run_serve-01.png}(https://github.com/lel99999/dev_fsVUE/blob/main/npm_run_serve-01.png) <br/>
+  ![https://github.com/lel99999/dev_fsVUE/blob/main/npm_run_serve-01.png](https://github.com/lel99999/dev_fsVUE/blob/main/npm_run_serve-01.png) <br/>
